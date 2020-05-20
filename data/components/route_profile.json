@@ -1,0 +1,9 @@
+{
+    "specification": "profile_1",
+    "drivecycle_file": "data/load/WLTC_class1.csv",
+    "acceleration_const": 0.6,
+    "speed_max": 8.33,
+    "t_hydraulic": 32.0,
+    "t_wait": 40.0,
+    "charger_power": 100000.0
+}

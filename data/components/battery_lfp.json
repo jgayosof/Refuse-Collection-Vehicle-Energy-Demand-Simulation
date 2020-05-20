@@ -1,0 +1,19 @@
+{
+    "specification": "lithium_lfp",
+    "capacity_nominal_wh": 200000.0,
+    "power_self_discharge_rate": 3.8073e-09,
+    "energy_density_kg": 100.0,
+    "energy_density_m2": 7500.0,
+    "charge_power_efficiency_a": -0.0224,
+    "charge_power_efficiency_b": 1.0,
+    "discharge_power_efficiency_a": -0.0281,
+    "discharge_power_efficiency_b": 1.0,
+    "end_of_discharge_a": 0.0394,
+    "end_of_discharge_b": 0.34,
+    "end_of_charge_a": -0.0361,
+    "end_of_charge_b": 1.00,
+    "temperature_operation_min": 233.15,
+    "temperature_operation_max": 343.15,
+    "heat_transfer_coefficient": 2,
+    "heat_capacity": 850
+}
