@@ -28,7 +28,12 @@ Sample component and route data is provided. Test simulation can be started with
 
 ###  Remark
 
-The simulation tool was developed during a research project. Research results obtained on the basis of the model will be published in the upcoming months and will be referenced here.
+The simulation tool was developed during a research project. Model developed and results obtained are published in:
+
+Schmid et al.: Electrification of waste collection vehicles: Techno-economic analysis based on an energy demand simulation using real-life operational data, IEEE Transactions on Transportation Electrification PP(99):1-1, 2020
+
+and can be downloaded here:https://depositonce.tu-berlin.de/handle/11303/11818
+
 
 
 
