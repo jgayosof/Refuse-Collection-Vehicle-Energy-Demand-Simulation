@@ -43,7 +43,7 @@ results_powerflows = pd.DataFrame(
                                           'battery_eta':sim.battery_efficiency}))
 
 # Set Datetimeindex
-datetimeindex_day = pd.date_range('01.01.2020 07:00:00', periods=len(sim.route.profile_day.speed), freq='S')
+datetimeindex_day = pd.date_range('01.01.2020 07:00:00', periods=len(sim.route.profile_day.speed), freq='s')
 results_powerflows['date'] = datetimeindex_day
 results_powerflows = results_powerflows.set_index('date')
 
